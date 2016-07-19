@@ -1,2 +1,2 @@
 # configurations
-This repo contains a variety of config-files.
+This repo contains config-files for developing tools, such as intellij, eclipse, etc.
